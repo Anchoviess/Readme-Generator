@@ -16,7 +16,7 @@ npm init -y to install node package manager, npm install inquirer
 `
 ## video tutorial here:
 
-https://drive.google.com/file/d/1k9kyK2fGddN5GHFMULXlPWjNuCEGBLvF/preview 
+https://youtu.be/auEu_N8In4I
 ## Usage
 please provide examples and screenshots for repo so others are able to create a reade me using node.js
 ## License
