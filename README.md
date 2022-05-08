@@ -15,7 +15,9 @@ To install dependencies, run the following:
 npm init -y to install node package manager, npm install inquirer
 `
 ## video tutorial here:
-https://drive.google.com/file/d/1k9kyK2fGddN5GHFMULXlPWjNuCEGBLvF/view
+
+<iframe src="https://drive.google.com/file/d/1k9kyK2fGddN5GHFMULXlPWjNuCEGBLvF/preview" width="640" height="480"></iframe>
+
 ## Usage
 please provide examples and screenshots for repo so others are able to create a reade me using node.js
 ## License
